@@ -4,6 +4,9 @@
 
 Microsoft SQL Server Managment Studio
 
+## Data sourses 
+ https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews
+
 ## Exploratory Data Analysis
 
 EDA involved exploring the Airbnb data to answer key questions, such as:
